@@ -1,0 +1,11 @@
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe.config
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.pdb
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.pdb
+C:\Users\nathr\OneDrive\Documents\Cours\Bloc 1\Compétence 2\Séquence 1\Séance 3\TestNotationPolonaise\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csprojAssemblyReference.cache
+C:\Users\nathr\OneDrive\Documents\Cours\Bloc 1\Compétence 2\Séquence 1\Séance 3\TestNotationPolonaise\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csproj.CoreCompileInputs.cache
+C:\Users\nathr\OneDrive\Documents\Cours\Bloc 1\Compétence 2\Séquence 1\Séance 3\TestNotationPolonaise\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.exe
+C:\Users\nathr\OneDrive\Documents\Cours\Bloc 1\Compétence 2\Séquence 1\Séance 3\TestNotationPolonaise\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.pdb
